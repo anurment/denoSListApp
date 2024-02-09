@@ -1,9 +1,6 @@
 # Shopping-lists
 
 ## Web application for creating and modyfying shared shopping lists
-[Click here for online version of the app](https://anurment-wsd-courseproject-1.onrender.com/)
-
-(The application is ran on a free tier server that is shutdown if the application is not used for a while. Please wait a while if the server needs to be restarted.)
 
 ### Prequisites:
 
